@@ -54,13 +54,11 @@ Back-end for a coffee shop ordering and transaction system.
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nurmalaaisn&show_icons=true&theme=default&hide_title=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmalaaisn&layout=compact&hide_title=true" height="165" />
 </p>
-
----
 
 <p align="center"><i>Currently open to Junior Back-End Developer opportunities 🚀</i></p>
